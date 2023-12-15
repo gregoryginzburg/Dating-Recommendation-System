@@ -1,0 +1,7 @@
+numpy
+matplotlib
+scikit-learn
+pandas
+aiohttp
+sqlite3
+openai

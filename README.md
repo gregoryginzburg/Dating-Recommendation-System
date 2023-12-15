@@ -10,8 +10,15 @@
 
 ## Установка
 Для запуска проекта выполните следующие шаги:
-1. Клонируйте репозиторий: `git clone https://github.com/gregoryginzburg/Dating-Recommendation-System.git`
-2. Установите необходимые пакеты Python: `pip install -r requirements.txt`
+1. Клонируйте репозиторий: 
+  ```
+  git clone https://github.com/gregoryginzburg/Dating-Recommendation-System.git
+  ```
+
+2. Установите необходимые пакеты Python:
+  ```
+  pip install -r requirements.txt
+  ```
 
 ## Конфигурация
 1. Вставьте свои ключи API OpenAI и Yandex в файле `create_embeddings.py`.

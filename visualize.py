@@ -8,7 +8,7 @@ import warnings
 
 warnings.filterwarnings('ignore')
 # read the serialized data from the file
-with open("embeddings_all.pickle", "rb") as f:
+with open("embeddings/embeddings_all.pickle", "rb") as f:
     serialized_data = f.read()
 
 
